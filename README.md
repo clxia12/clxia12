@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clxia12
+- 👋 Hi, I’m Chunlong Xia
 - 👀 I’m interested in foundation model, image classification, 23d object detection, image segementation, transfer learning, model design and NAS etc.
 - 🌱 I’m currently learning 23d object detection
 - 💞️ I’m looking to collaborate on object detection and model design
